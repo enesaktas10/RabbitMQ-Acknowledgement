@@ -1,5 +1,5 @@
 # RabbitMQ-Acknowledgement
-<a href="rabbitmq.png"><a/>
+<img src="rabbitmq.png">
 
 RabbitMQ immediately marks the message sent to the consumer for deletion from the queue, regardless of whether it is processed successfully or not.
 
